@@ -1,8 +1,9 @@
 # Noctua Issue Backlog
 
-Detailed Phase 1 planning also lives in:
+Detailed planning also lives in:
 
 - `PHASE1_ISSUE_BREAKDOWN.md`
+- `PHASE2_ISSUE_BREAKDOWN.md`
 - `GITHUB_ISSUES_PHASE1.md`
 
 The child issue drafts in `GITHUB_ISSUES_PHASE1.md` are intentionally copy-paste-ready for later GitHub issue creation.
